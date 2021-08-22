@@ -1,11 +1,6 @@
 # MEDONA
 ## _Medicine Donation System_
 
-
-Link to Website : https://medona.herokuapp.com/
-
-
-
 ## Tech
 
 Medona uses a number of open source projects to work properly:
@@ -31,7 +26,7 @@ Setup for Server :
 2. npm i nodemon
 ```
 ```sh
-3. URI='mongodb+srv://harish:harish@cluster0.osboo.mongodb.net/medona?retryWrites=true&w=majority' HOST=remotemysql.com USER=EWZGKF852l DB=EWZGKF852l PASSWORD=FLxHhfD0mY email=medonadbd@gmail.com password=Medona.1234  nodemon app.js
+3. URI='mongodb+srv://vaibhav:vaibhav@cluster0.osboo.mongodb.net/medona?retryWrites=true&w=majority' HOST=remotemysql.com USER=EWZGKF852l DB=EWZGKF852l PASSWORD=FLxHhfD0mY email=medonadbd@gmail.com password=Medona.1234  nodemon app.js
 ```
 _NOTE:_
 _1. If you want your own mongodb database then create your account in mongodb atlas and create cluster. Insert the database URI in the place above_
